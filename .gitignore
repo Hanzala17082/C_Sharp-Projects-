@@ -1,0 +1,24 @@
+# Ignore build results
+[Bb]in/
+[Oo]bj/
+
+# Ignore Visual Studio files
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+
+# Ignore sensitive files
+**/appsettings.Development.json
+**/appsettings.json
+
+# Ignore other common files
+*.log
+*.tmp
+*.temp 
