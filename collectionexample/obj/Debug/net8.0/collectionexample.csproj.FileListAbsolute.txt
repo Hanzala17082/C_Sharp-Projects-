@@ -1,0 +1,14 @@
+D:\programming\c#\collectionexample\bin\Debug\net8.0\collectionexample.exe
+D:\programming\c#\collectionexample\bin\Debug\net8.0\collectionexample.deps.json
+D:\programming\c#\collectionexample\bin\Debug\net8.0\collectionexample.runtimeconfig.json
+D:\programming\c#\collectionexample\bin\Debug\net8.0\collectionexample.dll
+D:\programming\c#\collectionexample\bin\Debug\net8.0\collectionexample.pdb
+D:\programming\c#\collectionexample\obj\Debug\net8.0\collectionexample.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\c#\collectionexample\obj\Debug\net8.0\collectionexample.AssemblyInfoInputs.cache
+D:\programming\c#\collectionexample\obj\Debug\net8.0\collectionexample.AssemblyInfo.cs
+D:\programming\c#\collectionexample\obj\Debug\net8.0\collectionexample.csproj.CoreCompileInputs.cache
+D:\programming\c#\collectionexample\obj\Debug\net8.0\collectionexample.dll
+D:\programming\c#\collectionexample\obj\Debug\net8.0\refint\collectionexample.dll
+D:\programming\c#\collectionexample\obj\Debug\net8.0\collectionexample.pdb
+D:\programming\c#\collectionexample\obj\Debug\net8.0\collectionexample.genruntimeconfig.cache
+D:\programming\c#\collectionexample\obj\Debug\net8.0\ref\collectionexample.dll

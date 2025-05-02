@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\c#\\project.net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4645C228-54DD-4BFB-BE64-046C810B89DD}|project.net.csproj|d:\\programming\\c#\\project.net\\views\\guestcontroller1\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4645C228-54DD-4BFB-BE64-046C810B89DD}|project.net.csproj|solutionrelative:views\\guestcontroller1\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4645C228-54DD-4BFB-BE64-046C810B89DD}|project.net.csproj|d:\\programming\\c#\\project.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4645C228-54DD-4BFB-BE64-046C810B89DD}|project.net.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4645C228-54DD-4BFB-BE64-046C810B89DD}|project.net.csproj|d:\\programming\\c#\\project.net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4645C228-54DD-4BFB-BE64-046C810B89DD}|project.net.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4645C228-54DD-4BFB-BE64-046C810B89DD}|project.net.csproj|d:\\programming\\c#\\project.net\\controllers\\guestcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4645C228-54DD-4BFB-BE64-046C810B89DD}|project.net.csproj|solutionrelative:controllers\\guestcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4645C228-54DD-4BFB-BE64-046C810B89DD}|project.net.csproj|d:\\programming\\c#\\project.net\\views\\guestcontroller1\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4645C228-54DD-4BFB-BE64-046C810B89DD}|project.net.csproj|solutionrelative:views\\guestcontroller1\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GuestController1.cs",
+              "DocumentMoniker": "D:\\programming\\c#\\project.net\\Controllers\\GuestController1.cs",
+              "RelativeDocumentMoniker": "Controllers\\GuestController1.cs",
+              "ToolTip": "D:\\programming\\c#\\project.net\\Controllers\\GuestController1.cs",
+              "RelativeToolTip": "Controllers\\GuestController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T20:13:10.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aboutus.cshtml",
+              "DocumentMoniker": "D:\\programming\\c#\\project.net\\Views\\GuestController1\\Aboutus.cshtml",
+              "RelativeDocumentMoniker": "Views\\GuestController1\\Aboutus.cshtml",
+              "ToolTip": "D:\\programming\\c#\\project.net\\Views\\GuestController1\\Aboutus.cshtml",
+              "RelativeToolTip": "Views\\GuestController1\\Aboutus.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T20:12:27.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programming\\c#\\project.net\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\programming\\c#\\project.net\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T11:44:51.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\programming\\c#\\project.net\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\programming\\c#\\project.net\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T10:55:14.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contactus.cshtml",
+              "DocumentMoniker": "D:\\programming\\c#\\project.net\\Views\\GuestController1\\Contactus.cshtml",
+              "RelativeDocumentMoniker": "Views\\GuestController1\\Contactus.cshtml",
+              "ToolTip": "D:\\programming\\c#\\project.net\\Views\\GuestController1\\Contactus.cshtml",
+              "RelativeToolTip": "Views\\GuestController1\\Contactus.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-17T11:43:43.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

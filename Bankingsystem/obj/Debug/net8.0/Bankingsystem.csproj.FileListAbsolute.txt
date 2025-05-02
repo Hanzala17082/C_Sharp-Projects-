@@ -1,0 +1,14 @@
+D:\programming\C++\Bankingsystem\bin\Debug\net8.0\Bankingsystem.exe
+D:\programming\C++\Bankingsystem\bin\Debug\net8.0\Bankingsystem.deps.json
+D:\programming\C++\Bankingsystem\bin\Debug\net8.0\Bankingsystem.runtimeconfig.json
+D:\programming\C++\Bankingsystem\bin\Debug\net8.0\Bankingsystem.dll
+D:\programming\C++\Bankingsystem\bin\Debug\net8.0\Bankingsystem.pdb
+D:\programming\C++\Bankingsystem\obj\Debug\net8.0\Bankingsystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C++\Bankingsystem\obj\Debug\net8.0\Bankingsystem.AssemblyInfoInputs.cache
+D:\programming\C++\Bankingsystem\obj\Debug\net8.0\Bankingsystem.AssemblyInfo.cs
+D:\programming\C++\Bankingsystem\obj\Debug\net8.0\Bankingsystem.csproj.CoreCompileInputs.cache
+D:\programming\C++\Bankingsystem\obj\Debug\net8.0\Bankingsystem.dll
+D:\programming\C++\Bankingsystem\obj\Debug\net8.0\refint\Bankingsystem.dll
+D:\programming\C++\Bankingsystem\obj\Debug\net8.0\Bankingsystem.pdb
+D:\programming\C++\Bankingsystem\obj\Debug\net8.0\Bankingsystem.genruntimeconfig.cache
+D:\programming\C++\Bankingsystem\obj\Debug\net8.0\ref\Bankingsystem.dll

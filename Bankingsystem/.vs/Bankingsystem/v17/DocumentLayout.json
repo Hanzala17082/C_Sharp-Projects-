@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programming\\C\u002B\u002B\\Bankingsystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{133CDD3D-BF1D-4A63-9FA9-D43D1AC51348}|Bankingsystem.csproj|d:\\programming\\c\u002B\u002B\\bankingsystem\\billingnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133CDD3D-BF1D-4A63-9FA9-D43D1AC51348}|Bankingsystem.csproj|solutionrelative:billingnew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133CDD3D-BF1D-4A63-9FA9-D43D1AC51348}|Bankingsystem.csproj|d:\\programming\\c\u002B\u002B\\bankingsystem\\billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133CDD3D-BF1D-4A63-9FA9-D43D1AC51348}|Bankingsystem.csproj|solutionrelative:billing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133CDD3D-BF1D-4A63-9FA9-D43D1AC51348}|Bankingsystem.csproj|d:\\programming\\c\u002B\u002B\\bankingsystem\\costumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133CDD3D-BF1D-4A63-9FA9-D43D1AC51348}|Bankingsystem.csproj|solutionrelative:costumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133CDD3D-BF1D-4A63-9FA9-D43D1AC51348}|Bankingsystem.csproj|d:\\programming\\c\u002B\u002B\\bankingsystem\\bankimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133CDD3D-BF1D-4A63-9FA9-D43D1AC51348}|Bankingsystem.csproj|solutionrelative:bankimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133CDD3D-BF1D-4A63-9FA9-D43D1AC51348}|Bankingsystem.csproj|d:\\programming\\c\u002B\u002B\\bankingsystem\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133CDD3D-BF1D-4A63-9FA9-D43D1AC51348}|Bankingsystem.csproj|solutionrelative:promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{133CDD3D-BF1D-4A63-9FA9-D43D1AC51348}|Bankingsystem.csproj|d:\\programming\\c\u002B\u002B\\bankingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{133CDD3D-BF1D-4A63-9FA9-D43D1AC51348}|Bankingsystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "billingnew.cs",
+              "DocumentMoniker": "D:\\programming\\C\u002B\u002B\\Bankingsystem\\billingnew.cs",
+              "RelativeDocumentMoniker": "billingnew.cs",
+              "ToolTip": "D:\\programming\\C\u002B\u002B\\Bankingsystem\\billingnew.cs",
+              "RelativeToolTip": "billingnew.cs",
+              "ViewState": "AgIAAAcAAAAAMzMzMzMLwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:41:16.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BILLING.cs",
+              "DocumentMoniker": "D:\\programming\\C\u002B\u002B\\Bankingsystem\\BILLING.cs",
+              "RelativeDocumentMoniker": "BILLING.cs",
+              "ToolTip": "D:\\programming\\C\u002B\u002B\\Bankingsystem\\BILLING.cs",
+              "RelativeToolTip": "BILLING.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:40:07.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "promotion.cs",
+              "DocumentMoniker": "D:\\programming\\C\u002B\u002B\\Bankingsystem\\promotion.cs",
+              "RelativeDocumentMoniker": "promotion.cs",
+              "ToolTip": "D:\\programming\\C\u002B\u002B\\Bankingsystem\\promotion.cs",
+              "RelativeToolTip": "promotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T22:25:26.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bankimplementation.cs",
+              "DocumentMoniker": "D:\\programming\\C\u002B\u002B\\Bankingsystem\\Bankimplementation.cs",
+              "RelativeDocumentMoniker": "Bankimplementation.cs",
+              "ToolTip": "D:\\programming\\C\u002B\u002B\\Bankingsystem\\Bankimplementation.cs",
+              "RelativeToolTip": "Bankimplementation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:32:07.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "costumer.cs",
+              "DocumentMoniker": "D:\\programming\\C\u002B\u002B\\Bankingsystem\\costumer.cs",
+              "RelativeDocumentMoniker": "costumer.cs",
+              "ToolTip": "D:\\programming\\C\u002B\u002B\\Bankingsystem\\costumer.cs",
+              "RelativeToolTip": "costumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:30:06.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programming\\C\u002B\u002B\\Bankingsystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\programming\\C\u002B\u002B\\Bankingsystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:34:43.59Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
